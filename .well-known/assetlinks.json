@@ -1,9 +1,14 @@
 
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "io.github.paolo_ds.twa",
-        "sha256_cert_fingerprints": ["BB:A4:8D:2E:66:42:0F:65:4E:0E:2A:81:07:4A:52:04:D8:B5:B0:10:27:AF:08:BE:98:DF:3A:81:66:56:B2:53"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.paolo_ds.twa",
+      "sha256_cert_fingerprints": [
+        "D6:88:91:FD:FC:05:DC:D5:CF:6F:9A:0D:4C:06:5B:AF:3F:68:0E:28:17:7E:75:B9:5B:10:09:30:09:A7:C9:05",
+        "BB:A4:8D:2E:66:42:0F:65:4E:0E:2A:81:07:4A:52:04:D8:B5:B0:10:27:AF:08:BE:98:DF:3A:81:66:56:B2:53"
+      ]
+    }
+  }
+]
